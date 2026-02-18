@@ -38,7 +38,6 @@ public class Main{
     ===============================
     🔵 ENTRADA Y SALIDA DE DATOS
     ===============================
-
     1) Datos básicos con Scanner
     - Pide al usuario:
         Nombre
